@@ -1,0 +1,26 @@
+/* 深色
+#5E4E3F
+淺色
+#F3D5B9 */
+.main {
+  display: flex;
+  flex-direction: column;
+}
+.main_row {
+  display: flex;
+}
+.main_container_1 {
+  max-width: 1200px;
+}
+.main_container_2 {
+  max-width: 1200px;
+}
+.main_bg-dark_brown {
+  background-color: #5e4e3f;
+}
+.main_bg-light_brown {
+  background-color: #f3d5b9;
+}
+.main_bg-gray {
+  background-color: rgb(235, 235, 235);
+}

@@ -1,0 +1,23 @@
+.header {
+  background-image: url(https://s3-alpha-sig.figma.com/img/2043/c28d/4fe0f3ae162806673a08c148ba1e2481?Expires=1652659200&Signature=C5xbHWOCo6ieyGS~vQYwAPH356N9UyALyFkIeFxMqs-p2hXegXDdrYLTZS8kPtRh23-KHPUUWcfFFDtFcDXCIGdZziUYtHL2eZfCs~SQFXr-baa1oTiWk8jjern9gxYqBUDJnRXmCs1VnMUJXa1OqzG2A6zNBuX~Y04-n6wt4Z7ox8Br2~bVe7BD--OFVairbN7QWBH~gaGVicIyVUqqyyoHHQ3ZA80PdtFbLhno9q7pkwcEcsXqXMLPeWvatuOCE5dX1~a-BS91uZpzdDXS7Bf6dbbdE1PeEaMYWTSlph~6l3dlyHUONTJa39YCsn5CUrR0bZMqJxRSsI1p-WRijA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.header_title {
+  margin-bottom: 1rem;
+  color: white;
+  font-size: 4rem;
+}
+
+.header_container {
+  max-width: 600px;
+  color: white;
+  text-align: center;
+  font-size: 1.2rem;
+}
